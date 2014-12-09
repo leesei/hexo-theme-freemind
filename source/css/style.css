@@ -378,7 +378,7 @@ h4 {
 .page .entry{
   padding-top: 10px 0;
 }
-
+/*
 .page .entry h2{
   display:block; overflow: hidden; width: 0; height: 0;
   margin: -20px 0;
@@ -386,6 +386,15 @@ h4 {
 
 .page .entry h3{
   display:block; overflow: hidden; width: 0; height: 0;
+}
+*/
+
+.page .entry h2{
+  font-size: 1.5em;
+}
+
+.page .entry h3{
+  font-size: 1.2em;
 }
 
 .page .entry .col-md-8{

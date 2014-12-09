@@ -1,4 +1,4 @@
-slogan: "Yet another bootstrap theme."
+slogan: "Technical blog for the future me and other beings."
 
 menu:
   - title: Archives
@@ -19,27 +19,35 @@ menu:
     icon: "fa fa-user"
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/freemind/
-    intro: "Freemind's Github repository."
-    icon: "fa fa-github"
   - title: "My Github"
-    url: http://www.github.com/wzpan
+    url: https://www.github.com/leesei
     intro: "My Github account."
     icon: "fa fa-github"
-  - title: "My LinkedIn"
-    url: http://www.linkedin.com/pub/weizhou-pan/5b/8a0/161
-    intro: "My Linkin account."
-    icon: "fa fa-linkedin"
+  - title: "MyGists"
+    url: https://mygists.info/leesei/
+    intro: "My gists supported by MyGists (please bear with the obsolete SSL cert)."
+    icon: "fa fa-github"
+  - title: "Source"
+    url: https://github.com/leesei/leesei.github.io/tree/source
+    intro: "Source for this blog."
+    icon: "fa fa-code"
+  - title: "RSS"
+    url: atom.xml
+    intro: "RSS feed"
+    icon: "fa fa-rss-square"
+  - title: "Site Map"
+    url: sitemap.xml
+    intro: "Sitemap"
+    icon: "fa fa-sitemap"
 
 widgets:
 - search
 - category
 - tagcloud
-- recent_posts  
+- recent_posts
 - links
 
-rss: 
+rss:
 fancybox: true
 favicon: favicon.png
 duoshuo_shortname:
