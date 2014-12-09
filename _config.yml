@@ -17,14 +17,6 @@ menu:
     url: about
     intro: "About me."
     icon: "fa fa-user"
-  - title: "RSS"
-    url: atom.xml
-    intro: "RSS feed"
-    icon: "fa fa-rss-square"
-  - title: "Site Map"
-    url: sitemap.xml
-    intro: "Sitemap"
-    icon: "fa fa-sitemap"
 
 links:
   - title: Freemind
@@ -39,6 +31,14 @@ links:
     url: https://github.com/leesei/hexo-testground/tree/source
     intro: "Source for this blog."
     icon: "fa fa-code"
+  - title: "RSS"
+    url: atom.xml
+    intro: "RSS feed"
+    icon: "fa fa-rss-square"
+  - title: "Site Map"
+    url: sitemap.xml
+    intro: "Sitemap"
+    icon: "fa fa-sitemap"
 
 widgets:
 - search
