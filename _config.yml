@@ -23,9 +23,9 @@ links:
     url: https://www.github.com/leesei
     intro: "My Github account."
     icon: "fa fa-github"
-  - title: "MyGists"
-    url: https://mygists.info/leesei/
-    intro: "My gists supported by MyGists (please bear with the obsolete SSL cert)."
+  - title: "My Repos"
+    url: https://www.github.com/leesei/repos
+    intro: "My repos on Github, in grid form."
     icon: "fa fa-github"
   - title: "Source"
     url: https://github.com/leesei/leesei.github.io/tree/source
@@ -44,14 +44,21 @@ widgets:
 - search
 - category
 - tagcloud
-- recent_posts
+# - recent_posts
 - links
 
 rss:
 fancybox: true
 favicon: favicon.png
 duoshuo_shortname:
+
+# Analytics
 google_analytics:
+  enable: false
+  siteid:
+baidu_tongji:
+  enable: false
+  siteid:
 
 customize:
   author: leesei
