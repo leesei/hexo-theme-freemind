@@ -24,7 +24,7 @@ links:
     intro: "My Github account."
     icon: "fa fa-github"
   - title: "My Repos"
-    url: https://www.github.com/leesei/repos
+    url: http://leesei.github.io/repos
     intro: "My repos on Github, in grid form."
     icon: "fa fa-github"
   - title: "Source"
