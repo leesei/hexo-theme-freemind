@@ -19,26 +19,26 @@ menu:
     icon: "fa fa-user"
 
 links:
-  - title: "My Github"
+  - title: "My GitHub"
     url: https://www.github.com/leesei
-    intro: "My Github account."
-    icon: "fa fa-github"
+    intro: "My GitHub account."
+    icon: "fa fa-fw fa-github"
   - title: "My Repos"
     url: http://leesei.github.io/repos
-    intro: "My repos on Github, in grid form."
-    icon: "fa fa-github"
+    intro: "My repos on GitHub, in grids."
+    icon: "fa fa-fw fa-github"
   - title: "Source"
     url: https://github.com/leesei/leesei.github.io/tree/source
     intro: "Source for this blog."
-    icon: "fa fa-code"
+    icon: "fa fa-fw fa-code"
   - title: "RSS"
     url: atom.xml
     intro: "RSS feed"
-    icon: "fa fa-rss-square"
+    icon: "fa fa-fw fa-rss-square"
   - title: "Site Map"
     url: sitemap.xml
     intro: "Sitemap"
-    icon: "fa fa-sitemap"
+    icon: "fa fa-fw fa-sitemap"
 
 widgets:
 - search
