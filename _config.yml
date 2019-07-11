@@ -23,9 +23,13 @@ links:
     url: https://www.github.com/leesei
     intro: "My GitHub account."
     icon: "fa fa-fw fa-github"
-  - title: "My Repos"
-    url: http://leesei.github.io/repos
+  - title: "My Repos Grid"
+    url: http://leesei.github.io/repos-grid
     intro: "My repos on GitHub, in grids."
+    icon: "fa fa-fw fa-github"
+  - title: "My Repos List"
+    url: http://leesei.github.io/repos-list
+    intro: "My repos on GitHub, in list."
     icon: "fa fa-fw fa-github"
   - title: "Source"
     url: https://github.com/leesei/leesei.github.io/tree/source
